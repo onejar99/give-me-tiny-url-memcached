@@ -10,7 +10,7 @@ Intro
 Tech Stack
 --------
 * Node.js + Express + MongoDB
-* Memory Cache: memcached
+* Memory Cache Tool: memcached
 
 Usage
 --------
@@ -31,8 +31,8 @@ Experiment
     - `$ node src-experiment/client-by-lib.js bWgYoBVv --mode=orig`
     - `$ node src-experiment/client-by-lib.js bWgYoBVv --mode=cache`
 * Call by Web APIs:
-    - `$ node src-experiment/client-by-lib.js bWgYoBVv --mode=orig`
-    - `$ node src-experiment/client-by-lib.js bWgYoBVv --mode=cache`
+    - `$ node src-experiment/client-by-api.js bWgYoBVv --mode=orig`
+    - `$ node src-experiment/client-by-api.js bWgYoBVv --mode=cache`
 
 ### Experiment Results:
 
