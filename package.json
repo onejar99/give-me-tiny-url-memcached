@@ -10,5 +10,14 @@
     "memcached"
   ],
   "author": "OneJar",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "hashids": "^1.2.2",
+    "memcached": "^2.2.2",
+    "mongodb": "^3.2.7",
+    "mongoose": "^5.6.3"
+  }
 }

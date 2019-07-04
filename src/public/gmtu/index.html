@@ -1,0 +1,24 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>Give Me Tiny URL!</title>
+<link rel="stylesheet" type="text/css" href="../css/main.css" />
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="../js/main.js"></script>
+</head>
+<body>
+    <div id="logo-font">Give me tiny URL!</div>
+    
+    <div>
+        <p>Enter your URL</p>
+        <input type="text" class="url-input" id="input-url"/>
+        <br/><br/>
+        <a class="my-button" onclick="makeTinyUrl()">Let's Go!</a>
+    </div>
+    <br/><hr/>
+    <div class="result">
+        <p>Your tiny URL: <span class="tiny-url" id="result-url"></span></p>
+    </div>
+
+</body>
+</html>
