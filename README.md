@@ -14,7 +14,7 @@ Tech Stack
 
 Usage
 --------
-| Type       | URL                             |                                           |
+| Type       | URL                             | Description                               |
 | ---------- | ------------------------------- | ----------------------------------------- |
 | View Page  | /gmtu                           | Main GUI for this applicaiotn             |
 | View Page  | /gmtu/{hashCode}                | Direct shorten urls to real websites      |
