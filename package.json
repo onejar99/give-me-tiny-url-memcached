@@ -1,0 +1,14 @@
+{
+  "name": "give-me-tiny-url-memcached",
+  "version": "1.0.0",
+  "description": "A simple project for memcached demo",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "memcached"
+  ],
+  "author": "OneJar",
+  "license": "ISC"
+}
