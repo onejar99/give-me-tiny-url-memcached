@@ -4,6 +4,7 @@ GMTU - Give Me Tiny URL
 Intro
 --------
 * A simple project for memcached demo.
+* Tutorial article: [Memcached 實作示範 — 用Memory Cache優化系統效能](https://www.onejar99.com/memcached-memory-cache-optimize-performance/)
 
 ![](./figures/gmtu.png)
 
